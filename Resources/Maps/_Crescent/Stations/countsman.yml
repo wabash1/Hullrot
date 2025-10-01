@@ -79432,7 +79432,7 @@ entities:
     - type: DeviceLinkSink
       links:
       - 4188
-- proto: MagazineBoxAntiMateriel
+- proto: BoxRoundsAntiMateriel
   entities:
   - uid: 4100
     components:
